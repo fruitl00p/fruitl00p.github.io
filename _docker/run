@@ -1,0 +1,10 @@
+#!/bin/bash
+BIN_DIR=$(dirname $(readlink -f $0))
+
+docker run --rm \
+    -it \
+    -p 4000:4000 \
+    -l jekyll \
+    -l stable \
+    -v $(dirname ${BIN_DIR}):/srv/jekyll \
+    jekyll/stable $*
