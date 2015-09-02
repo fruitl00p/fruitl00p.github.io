@@ -1,0 +1,13 @@
+# Site settings
+title: My Ramblings
+email: robinspeekenbrink@oldboyz.net
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal pretty little blog. Mainly to remember but also to educate (myself ?) It will be a collection
+  of lessons, gists and opinions. Let's see what happens!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://fruitl00p.github.io" # the base hostname & protocol for your site
+twitter_username: fruitl00p
+github_username:  fruitl00p
+
+# Build settings
+markdown: kramdown
