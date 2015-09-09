@@ -7,4 +7,4 @@ docker run --rm \
     -l jekyll \
     -l stable \
     -v $(dirname ${BIN_DIR}):/srv/jekyll \
-    jekyll/stable $*
+    jekyll/jekyll:stable $*
