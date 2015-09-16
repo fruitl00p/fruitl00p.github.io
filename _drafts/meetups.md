@@ -1,0 +1,1 @@
+meetups in general, spirit of sharing (sharing is caring), why tech only? AmsterdamPhp / Docker Randstad: welcoming community to get in touch and keep in touch with other likeminded people. Its about bringing out the best in one and other without the whitecollar BS / hassle. Straight up learning!

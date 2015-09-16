@@ -1,0 +1,1 @@
+monitoring (newrelic, csysdig, munin, htop), profiling (xdebug, blackfire, newrelic), sysadmin (ansible, docker, mesos?), CI/CD (jenkins, atlassian suite, wercker) personal interests (mesos production, alternative document storage etc)
